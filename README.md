@@ -6,8 +6,8 @@
 - Clone this repo
 - Install one of the following Nuget Package
 > * Windows: ``` JavaScriptEngineSwitcher.ChakraCore.Native.win-x64 ```
-* MacOS: ``` JavaScriptEngineSwitcher.ChakraCore.Native.osx-x64 ```
-* Linux: ``` JavaScriptEngineSwitcher.ChakraCore.Native.linux-x64 ```
+> * MacOS: ``` JavaScriptEngineSwitcher.ChakraCore.Native.osx-x64 ```
+> * Linux: ``` JavaScriptEngineSwitcher.ChakraCore.Native.linux-x64 ```
 
 - If you are using visual studio, open `RoboticsWebsite.sln` and click `Run`
 - Or, cd into `/src` and run `dotnet run`
