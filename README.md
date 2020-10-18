@@ -5,7 +5,7 @@
 - Install .NET Core https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=netcore31
 - Clone this repo
 - Install one of the following Nuget Package
-* Windows: ``` JavaScriptEngineSwitcher.ChakraCore.Native.win-x64 ```
+> * Windows: ``` JavaScriptEngineSwitcher.ChakraCore.Native.win-x64 ```
 * MacOS: ``` JavaScriptEngineSwitcher.ChakraCore.Native.osx-x64 ```
 * Linux: ``` JavaScriptEngineSwitcher.ChakraCore.Native.linux-x64 ```
 
