@@ -1,8 +1,16 @@
 # React And DotNet Core Initial Tutorial
 
 ## Set up Environment
-- Download Visual Studio 2019 at https://visualstudio.microsoft.com/downloads/
-- Clone this repo and open `RoboticsWebsite.sln` using visual studio
+- Download Visual Studio 2019 https://visualstudio.microsoft.com/downloads/
+- Install .NET Core https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=netcore31
+- Clone this repo
+- Install one of the following Nuget Package
+Windows: ``` JavaScriptEngineSwitcher.ChakraCore.Native.win-x64 ```
+MacOS: ``` JavaScriptEngineSwitcher.ChakraCore.Native.osx-x64 ```
+Linux: ``` JavaScriptEngineSwitcher.ChakraCore.Native.linux-x64 ```
+
+- If you are using visual studio, open `RoboticsWebsite.sln` and click `Run`
+- Or, cd into `/src` and run `dotnet run`
 
 ## Unit testing
 - The tests can be found under `test/RoboticsWebsiteTests`
